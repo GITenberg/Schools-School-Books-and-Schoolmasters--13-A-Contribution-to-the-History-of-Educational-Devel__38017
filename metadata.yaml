@@ -1,0 +1,31 @@
+_repo: Schools-School-Books-and-Schoolmasters--13-A-Contribution-to-the-History-of-Educational-Devel__38017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hazlitt, William Carew
+    alias: Hazlitt, W. Carew (William Carew)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '4300'
+    url: http://www.gutenberg.org/2009/agents/4300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38017'
+  lccn: 06025974
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Education -- Great Britain'
+- !lcsh 'Textbooks'
+title: "Schools, School-Books and Schoolmasters\r\nA Contribution to the History of\
+  \ Educational Development in Great Britain"
+url: http://www.gutenberg.org/ebooks/38017
